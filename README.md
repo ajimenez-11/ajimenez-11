@@ -22,17 +22,20 @@ Diseño y desarrollo **módulos a medida en Odoo con Python**, conecto el ERP co
 
 ## 🛠️ Stack
 
-**Backend y ERP**
+**Desarrollo Odoo**
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XML](https://img.shields.io/badge/Vistas%20XML-005FAD?style=flat-square&logo=xml&logoColor=white)
+![QWeb](https://img.shields.io/badge/QWeb-875A7B?style=flat-square&logo=odoo&logoColor=white)
+![ORM](https://img.shields.io/badge/ORM%20de%20Odoo-6D28D9?style=flat-square&logo=odoo&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Backend**
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![APIs REST](https://img.shields.io/badge/APIs%20REST-6D28D9?style=flat-square&logo=postman&logoColor=white)
-
-**Bases de datos**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend**
