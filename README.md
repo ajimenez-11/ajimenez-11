@@ -50,25 +50,6 @@ Diseño y desarrollo **módulos a medida en Odoo con Python**, conecto el ERP co
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🚀 Proyectos
-
-### Vitalis · Gestión de cocinas profesionales
-
-Aplicación web para cocinas centrales y empresas de catering, desarrollada junto a David Moya como proyecto final de DAW. Digitaliza albaranes de proveedores, controla el stock en tiempo real, descuenta ingredientes al producir recetas y ofrece trazabilidad por lote con alertas de caducidad.
-
-`Laravel` `PHP` `JavaScript` `MySQL` `Docker` `GitHub Actions`
-
-<a href="https://ajimenez.app/#proyectos"><img src="https://ajimenez.app/projects/vitalis.webp" alt="Panel de Vitalis" width="720" /></a>
-
-### Otros repositorios
-
-| Proyecto | Descripción | Stack |
-| --- | --- | --- |
-| [Portfolio](https://github.com/ajimenez-11/Portfolio) | Mi portfolio personal, publicado en [ajimenez.app](https://ajimenez.app) | Astro · Tailwind · TypeScript |
-| [gestor-instituto](https://github.com/ajimenez-11/gestor-instituto) | Gestor de un instituto con arquitectura MVC | Laravel · PHP · Docker |
-| [Receptes](https://github.com/ajimenez-11/Receptes) | CRUD de recetas con API propia | MERN · TypeScript |
-| [FitXarxa](https://github.com/ajimenez-11/FitXarxa) | Aplicación de gestión para una cadena de centros deportivos | Laravel · PHP · TypeScript |
-
 ## 📫 Contacto
 
 ¿Hablamos? Escríbeme desde el formulario de [ajimenez.app](https://ajimenez.app/#contacto) o por [LinkedIn](https://www.linkedin.com/in/antonio-jimnez/).
