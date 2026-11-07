@@ -16,7 +16,7 @@ Diseño y desarrollo **módulos a medida en Odoo con Python**, conecto el ERP co
 
 - 💼 **Desarrollador Odoo** en PYMING desde febrero de 2026.
 - 🧩 Módulos personalizados con Python, XML y QWeb, ORM avanzado y PostgreSQL.
-- 🔗 Integraciones con APIs externas para automatizar facturación y comunicación con clientes.
+- 🔗 Integración de Odoo con APIs y servicios externos y automatización de procesos de negocio.
 - 🎓 Grado Superior en **Desarrollo de Aplicaciones Web** (Institut Carles Vallbona, 2024 – 2026).
 - 🌍 Catalán y castellano nativos, inglés intermedio.
 
